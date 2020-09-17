@@ -35,7 +35,7 @@ namespace TechProject2B
                     }
                     else if ((grade >= 60) && (grade <= 69))
                     {
-                        Console.WriteLine("Better luck next time! Your grade letter is a D");
+                        Console.WriteLine("Your so close to average! Your grade letter is a D");
                     }
                     else if ((grade >= 0) && (grade <= 59))
                     {
